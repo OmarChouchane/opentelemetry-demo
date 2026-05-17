@@ -73,7 +73,8 @@ Monitor real-time metrics and performance indicators across all services.
 - Pre-configured dashboards for microservices
 - Custom alert and monitoring setup
 
-![Grafana Dashboard](./docs/images/grafana-dashboard.png)
+![Grafana Dashboard]<img width="1920" height="973" alt="677682200_882600164845297_4299873477948562491_n" src="https://github.com/user-attachments/assets/d09ed7bd-bdbc-4f12-a815-3f37f29a5e3c" />
+
 
 ---
 
@@ -87,7 +88,8 @@ Track distributed requests across the entire microservice architecture.
 - Service dependency mapping
 - Performance bottleneck identification
 
-![Jaeger UI](./docs/images/jaeger-ui.png)
+![Jaeger UI]<img width="1920" height="975" alt="689221468_27253489090913349_8589601263391541974_n" src="https://github.com/user-attachments/assets/7baa4742-5215-4c2b-9f54-d473447bb656" />
+
 
 ---
 
@@ -101,7 +103,8 @@ Generate realistic load patterns and stress-test the system.
 - Real-time traffic simulation
 - Performance metrics collection
 
-![Locust Load Generator](./docs/images/locust-load-generator.png)
+![Locust Load Generator]<img width="1919" height="975" alt="670369562_1648727153029406_2903472964815502629_n" src="https://github.com/user-attachments/assets/fdc342bc-4120-4b5f-b7de-4b41c1b9a5ff" />
+
 
 ---
 
